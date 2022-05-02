@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">مارکت</string>
+    <string name="app_tag_line">فروشگاه آنلاین مارکت</string>
+
+    <string name="title_about">درباره</string>
+    <string name="content_about">
+        مارکت، یه فروشگاه تحت اندروید با امکانات بی نظیر است. امکانات اولیه این فروشگاه ساز تمام نیازهای شما را برای آغاز یک فروش موفق برآورده خواهد کرد.
+        \n\n
+    </string>
+
+    <string name="title_activity_news_info">اخبار</string>
+    <string name="title_activity_notifications">اطلاعیه ها</string>
+    <string name="title_activity_wishlist">علاقه مندی ها</string>
+    <string name="title_activity_cart">سبد خرید</string>
+    <string name="title_activity_checkout">تسویه حساب</string>
+    <string name="title_activity_history">تاریخچه سفارشات</string>
+    <string name="title_activity_settings">تنظیمات</string>
+
+
+    <!--All data for ActivityMain.java -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="str_nav_shopping_cart">سبد خرید</string>
+    <string name="str_nav_wishlist">علاقه مندی ها</string>
+    <string name="str_nav_history">تاریخچه سفارشات</string>
+    <string name="str_nav_news">اخبار</string>
+    <string name="str_nav_notifications">اطلاعیه ها</string>
+    <string name="sub_title_nav_others">بیشتر</string>
+    <string name="str_nav_instruction">راهنما</string>
+    <string name="str_nav_setting">تنظیمات</string>
+    <string name="str_nav_rate">امتیاز</string>
+    <string name="str_nav_about">درباره</string>
+    <string name="press_again_exit_app">برای خروج دوباره ضربه بزنید</string>
+
+    <string name="title_what_news">اخبار</string>
+    <string name="title_category">دسته ها</string>
+
+    <!--All data for ActivityCategoryDetails.java -->
+    <string name="title_menu_search">جستجو</string>
+    <string name="title_menu_delete">حذف</string>
+
+    <!--All data for ActivityProductDetails.java -->
+    <string name="please_wait_text">لطفا صبر کنید تا اطلاعات بارگزاری شود</string>
+    <string name="categories_product">دسته بندی ها :&#160;</string>
+    <string name="cannot_add_wishlist">نمی توان به علاقه مندی ها اضافه کرد</string>
+    <string name="add_wishlist">به علاقه مندی ها اضافه شد</string>
+    <string name="remove_wishlist">از علاقه مندی ها حذف شد</string>
+    <string name="add_cart">به سبد اضافه شد</string>
+    <string name="remove_cart">از سبد حذف شد</string>
+    <string name="msg_out_of_stock">متاسفیم،محصول موجود نیست</string>
+    <string name="msg_suspend">متاسفیم،خرید محصول متوقف شده است</string>
+    <string name="out_of_stock">ناموجود</string>
+    <string name="suspend">متوقف</string>
+    <string name="ready_stock">موجود</string>
+    <string name="bt_add_cart">به سبد اضافه شود</string>
+    <string name="bt_remove_cart">از سبد حذف شود</string>
+
+    <!--All data for ActivitySplash.java -->
+    <string name="title_unable_connect">نمی تواند به سرور متصل شود</string>
+    <string name="msg_unable_connect">سرور به طور موقت در حال تعمیر هست</string>
+    <string name="msg_app_out_date">این نسخه قدیمی هست،لطفا به اخرین نسخه بروزرسانی کنید</string>
+    <string name="msg_no_internet">از اتصال اینترنت خود مطمئن شوید و دوباره سعی کنید</string>
+    <string name="title_info">اطلاعات</string>
+    <string name="title_no_internet">دسترسی به اینترنت وجود ندارد</string>
+
+    <!--All data for ActivityWishlist.java -->
+    <string name="msg_wishlist_empty">لیست علاقه مندی ها خالی می باشد</string>
+    <string name="title_menu_wishlist">علاقه مندی ها</string>
+
+    <!--All data for ActivityShoppingCart.java -->
+    <string name="msg_cart_empty">سبد خرید خالی می باشد</string>
+    <string name="before_tax">( بدون مالیات )</string>
+    <string name="total">جمع&#160;</string>
+    <string name="stock">موجودی : &#160;</string>
+    <string name="QUANTITY">تعداد</string>
+    <string name="items">عدد</string>
+    <string name="title_menu_checkout">تسویه حساب</string>
+
+    <!--All data for ActivitySearch.java -->
+    <string name="ALL">همه</string>
+    <string name="Category">دسته بندی :&#160;</string>
+    <string name="hint_input_search">جستجو</string>
+    <string name="please_fill">لطفا یک کلمه وارد کنید</string>
+
+    <!--All data for ActivityOrderHistory.java -->
+    <string name="msg_history_empty">تاریخچه خرید خالی می باشد</string>
+    <string name="title_history_details">جزئیات سفارشات</string>
+
+    <!--All data for ActivityNotification.java -->
+    <string name="msg_notif_empty">اطلاعیه ها خالی  می باشد</string>
+
+    <!--All data for ActivityCheckout.java -->
+    <string name="cost_details">هزینه ها</string>
+    <string name="total_order">جمع سفارشات :&#160;</string>
+    <string name="tax">مالیات&#160;</string>
+    <string name="total_fess">جمع کل :&#160;</string>
+    <string name="buyer_profile">خریدار</string>
+    <string name="hint_name">نام</string>
+    <string name="hint_email">ایمیل</string>
+    <string name="hint_phone">تلفن</string>
+    <string name="hint_address">آدرس</string>
+    <string name="hint_shipping">ارسال</string>
+    <string name="choose_shipping">نحوه پرداخت</string>
+    <string name="hint_date_ship">تاریخ ارسال</string>
+    <string name="hint_comment">توضیحات</string>
+
+    <string name="invalid_name">نام نامعتبر است</string>
+    <string name="invalid_email">ایمیل نامعتبر است</string>
+    <string name="invalid_phone">تلفن نامعتبر است</string>
+    <string name="invalid_address">آدرس نا معتبر است</string>
+    <string name="invalid_shipping">نحوه ارسال نا معتبر است</string>
+    <string name="invalid_date_ship">تاریخ ارسال نامعتبر است</string>
+    <string name="invalid_comment">توضیحات نامعتبر است</string>
+
+    <string name="title_please_wait">لطفا صبر کنید</string>
+    <string name="content_submit_checkout">ثبت پرداخت&#8230;</string>
+    <string name="confirmation">تائید سفارش</string>
+    <string name="confirm_checkout">آیا مطمئن هستید که میخواهید این سفارش را پرداخت کنید؟</string>
+    <string name="failed_checkout">
+       متاسفیم،سفارش انجام نشد
+        \n\n
+		اطمینان حاصل کنید که اتصال به اینترنت دارید یا اگر به کمک نیاز دارید، لطفا از قسمت تماس با ما اقدام کنید
+    </string>
+    <string name="success_checkout">تریک</string>
+    <string name="msg_success_checkout">
+        پرداخت با موفقیت انجام شد
+        \n
+       کد پیگیری سفارش : %1$s\n\n
+        سفارش شما به زودی بررسی خواهد شد. وقتی سفارش شما آماده شد، جزئیات فاکتور به ایمیل شما ارسال خواهد شد.
+    </string>
+    <string name="process_checkout">پرداخت نهایی</string>
+
+    <!--All data ActivityNewsInfoDetails.java -->
+    <string name="featured">ویژه ها</string>
+
+    <!--All data for ActivityDialogNotification.java -->
+    <string name="title_notif_details">جزئیات اطلاعیه ها</string>
+    <string name="title_notif">اطلاعیه ها</string>
+
+    <!--All data ActivityFullScreenImage.java -->
+    <string name="image_of">%1$d of %2$d</string>
+
+    <!--All data related about page-->
+    <!--Size three array below must be same -->
+    <string-array name="about_title_array">
+        <item>خوش آمدید</item>
+        <item>جستجوی محصول</item>
+        <item>اضافه کردن به سبد</item>
+        <item>تائید و دریافت</item>
+    </string-array>
+
+    <string-array name="about_description_array">
+        <item>مارکت،فروشگاهی تمام عیار و همیشه در دسترس</item>
+        <item>جستجو در بین هزاران محصول با قیمت های شگفت انگیز</item>
+        <item>براحتی محصول خود را بررسی و به سبد خرید خود اضافه کنید</item>
+        <item>سفارشات خود را تائید کنید و از ما هدیه بگیرید</item>
+    </string-array>
+
+    <integer-array name="about_images_array">
+        <item>@drawable/intro_img_1</item>
+        <item>@drawable/intro_img_2</item>
+        <item>@drawable/intro_img_3</item>
+        <item>@drawable/intro_img_4</item>
+    </integer-array>
+
+    <!-- Activity Setting : xml/setting_preference.xml -->
+    <string name="app_version">نسخه</string>
+    <string name="developer_email">info@logographiii.ir</string>
+    <string name="copyright">© تمامی حقوق نزد گروه نرم افزاری اپ گرافی محفوظ می باشد</string>
+
+    <string name="pref_group_notif">اطلاعیه ها</string>
+    <string name="pref_group_others">دیگر</string>
+    <string name="pref_title_notif">اطلاعیه ها</string>
+    <string name="pref_title_ringtone">آلارم</string>
+    <string name="pref_title_vibrate">ویبره</string>
+    <string name="pref_title_copyright">کپی رایت</string>
+    <string name="pref_title_contact_us">تماس با ما</string>
+    <string name="pref_title_build">نسخه ساخت</string>
+    <string name="pref_title_term">قوانین و مقررات</string>
+    <string name="pref_ringtone_silent">بی صدا</string>
+    <string name="grant_permission_storage">فعال کردن مجوز ذخیره سازی</string>
+
+    <string name="content_term">
+        شرایط و قوانین استفاده از سرویس‌ها و خدمات مارکت
+\n\n
+
+کاربر گرامی لطفاً موارد زیر را جهت استفاده بهینه از خدمات و برنامه‌‏های کاربردی مارکت به دقت ملاحظه فرمایید.
+\n\n
+
+ورود کاربران به وب‏‌سایت مارکت هنگام استفاده از پروفایل شخصی، طرح‏‌های تشویقی، ویدئوهای رسانه تصویری مارکت و سایر خدمات ارائه شده توسط مارکت به معنای آگاه بودن و پذیرفتن شرایط و قوانین و همچنین نحوه استفاده از سرویس‌‏ها و خدمات مارکت است. توجه داشته باشید که ثبت سفارش نیز در هر زمان به معنی پذیرفتن کامل کلیه شرایط و قوانین مارکت از سوی کاربر است.
+لازم به ذکر است شرایط و قوانین مندرج، جایگزین کلیه توافق‏‌های قبلی محسوب می‏‌شود.
+\n\n
+
+قوانین عمومی
+\n\n
+
+توجه داشته باشید کلیه اصول و رویه‏‌های مارکت منطبق با قوانین جمهوری اسلامی ایران، قانون تجارت الکترونیک و قانون حمایت از حقوق مصرف کننده است و متعاقبا کاربر نیز موظف به رعایت قوانین مرتبط با کاربر است. در صورتی که در قوانین مندرج، رویه‏‌ها و سرویس‏‌های مارکت تغییراتی در آینده ایجاد شود، در همین صفحه منتشر و به روز رسانی می شود و شما توافق می‏‌کنید که استفاده مستمر شما از سایت به معنی پذیرش هرگونه تغییر است.
+ \n\n
+
+ثبت، پردازش و ارسال سفارش
+\n\n
+
+- روز کاری به معنی روز شنبه تا پنج شنبه هر هفته، به استثنای تعطیلات عمومی در ایران است و کلیه سفارش‏‌های ثبت شده در طول روزهای کاری و اولین روز پس از تعطیلات پردازش می‌‏شوند. مارکت به مشتریان خود در 7 روز هفته و 24 ساعت در روز امکان سفارش‌‏گذاری می‌‏دهد.
+\n\n
+
+- کلیه سفارش‌‏های ثبت شده در سایت مارکت به وسیله ارسال کد سفارش از طریق پیام کوتاه و پیش فاکتور از طریق ایمیل، در صف پردازش قرار می‏‌گیرند. مارکت همواره در ارسال و تحویل کلیه سفارش‌‏های ثبت شده، نهایت دقت و تلاش خود را انجام می‌دهد. با وجود این، در صورتی که موجودی محصولی در مارکت به پایان برسد، حتی پس از اقدام مشتری به سفارش‌‏گذاری، حق کنسل کردن آن سفارش و یا استرداد وجه سفارش برای مارکت محفوظ است و یا مشتری می‏‌تواند به جای کالای به اتمام رسیده،  محصول دیگری را جایگزین کند.
+\n\n
+
+- در صورت بروز مشکل در پردازش نهایی سبد خرید مانند اتمام موجودی کالا یا انصراف مشتری، مبلغ پرداخت شده طی 24 الی 48 ساعت کاری به حساب مشتری واریز خواهد شد.
+\n\n
+
+- مارکت مجاز است بدون اطلاع قبلی نسبت به توقف سفارش‌‏گیری جدید، اقدام و فروش خود را متوقف کند و کلیه سفارش‌‏های ثبت شده قبل از توقف سفارش‌‏گیری، پردازش و ارسال می‌‏شود. حق قطع فروش کلیه و یا بخشی از محصولات به هر دلیلی مانند اتمام موجودی کالا بدون اطلاع قبلی، برای مارکت محفوظ است.
+
+
+    </string>
+    <string name="version_unknown">نا معلوم</string>
+
+
+    <!-- Other String -->
+    <string name="failed_text">خطا در بارگزاری اطلاعات</string>
+    <string name="no_internet_text">دسترسی به اینترنت وجود ندارد</string>
+    <string name="no_item">چیزی وجود ندارد</string>
+    <string name="msg_data_loaded">اطلاعات بارگزاری شد</string>
+    <string name="msg_failed_load_data">خطا در بارگزاری اطلاعات</string>
+    <string name="title_delete_confirm">تائید حذف</string>
+    <string name="content_delete_confirm">آیا مطمئن هستید که می خواهید همه را حذف کنید&#160;</string>
+    <string name="delete_success">با موفقیت حذف شد</string>
+    <string name="msg_copied_clipboard">متن در کلیپبورد کپی شد</string>
+    <string name="failed">نا موفق</string>
+
+    <string name="OK">باشه</string>
+    <string name="GOT_IT">متوجه شدم</string>
+    <string name="YES">بله</string>
+    <string name="NO">خیر</string>
+    <string name="SETTING">تنظیمات</string>
+    <string name="CANCEL">لغو</string>
+    <string name="CLOSE">بستن</string>
+    <string name="UPDATE">بروزرسانی</string>
+    <string name="DISMISS">بستن</string>
+    <string name="HIDE">مخفی</string>
+    <string name="RETRY">دوباره سعی کنید</string>
+    <string name="TRY_AGAIN">دوباره سعی کنید</string>
+    <string name="DETAILS">جزئیات</string>
+    <string name="FAILED">خطا</string>
+    <string name="TYPE_SEARCH">جستجو</string>
+    <string name="NO_IMAGE">بدون عکس</string>
+    <string name="DELETE">حذف</string>
+    <string name="OPEN">باز کردن</string>
+    <string name="SAVE">ذخیره</string>
+    <string name="NEXT">بعدی</string>
+    <string name="SKIP">رد کردن</string>
+    <string name="ircurrency">تومان</string>
+    <string name="product_order_list">لیست خرید</string>
+
+</resources>
